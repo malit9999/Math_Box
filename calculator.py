@@ -26,3 +26,9 @@ def get_Abs(num):
 				return num
 		else:
 				return -num
+
+def divide_premium(a, b):
+		return a / b
+
+def get_Median(a, b):
+		return (a + b)/2
